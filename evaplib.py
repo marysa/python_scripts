@@ -19,6 +19,8 @@ Potential and actual evaporation functions
 Requires and imports scipy and meteolib modules.
 Compatible with Python 2.7.3.
 
+Marysa M. Lague updated to work with Python 3.6, Dec. 2022 <marysa.lague@utah.edu>
+
 Function descriptions
 =====================
 

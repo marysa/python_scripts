@@ -21,6 +21,8 @@ Module requires and imports math and scipy modules.
 
 Tested for compatibility with Python 2.7.
 
+Marysa M. Lague updated to work with Python 3.6, Dec. 2022 <marysa.lague@utah.edu>
+
 Function descriptions
 =====================
 
